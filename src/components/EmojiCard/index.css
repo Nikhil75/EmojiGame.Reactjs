@@ -1,0 +1,20 @@
+.emojis-list {
+  height: 30vh;
+  width: 20vw;
+  background-color: #ffffff33;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 22px;
+  margin-left: 20px;
+}
+.emojiImage {
+  height: 20vh;
+}
+button {
+  cursor: pointer;
+  border-width: 0px;
+  background-color: transparent;
+}

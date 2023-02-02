@@ -1,0 +1,21 @@
+.navbar-container {
+  height: 10vh;
+  background-color: #ffffff33;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.logoandbrand {
+  display: flex;
+}
+.topScore {
+  margin-left: 20px;
+}
+.brand {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.scores-container {
+  display: flex;
+}
